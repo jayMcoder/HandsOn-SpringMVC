@@ -1,5 +1,6 @@
-/Users/jmani3/Work/CodeBase/Public/FitnessTracker/src/main/java/com/springmvc/model/Exercise.java
-/Users/jmani3/Work/CodeBase/Public/FitnessTracker/src/main/java/com/springmvc/controller/HelloController.java
-/Users/jmani3/Work/CodeBase/Public/FitnessTracker/src/main/java/com/springmvc/model/Goal.java
-/Users/jmani3/Work/CodeBase/Public/FitnessTracker/src/main/java/com/springmvc/controller/GoalController.java
-/Users/jmani3/Work/CodeBase/Public/FitnessTracker/src/main/java/com/springmvc/controller/MinutesController.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/model/Goal.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/controller/HelloController.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/controller/GoalController.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/controller/MinutesController.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/model/Exercise.java
+/Users/jmani3/Work/CodeBase/Public/HandsOn-SpringMVC/FitnessTracker/src/main/java/com/springmvc/model/Activity.java

@@ -15,7 +15,7 @@
 	<mvc:annotation-driven/>
 	<mvc:resources location="pdfs" mapping="/pdfs/**"></mvc:resources>
 	
-	<context:component-scan base-package="com.springmvc.controller"/>
+	<context:component-scan base-package="com.springmvc"/>
 	
 	<bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
 		<property name="order" value="1"></property>
@@ -41,7 +41,7 @@
 				<bean class="org.springframework.web.servlet.view.xml.MarshallingView">
 					<constructor-arg>
 						<bean class="org.springframework.oxm.xstream.XStreamMarshaller">
-							<property name="autodetectAnnotation" value="true"/>
+							<property name="autodetectAnnotations" value="true"/>
 						</bean>
 					</constructor-arg>
 				</bean>

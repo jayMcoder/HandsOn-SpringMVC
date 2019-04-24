@@ -1,8 +1,0 @@
-com/springmvc/controller/GoalController.class
-com/springmvc/controller/HelloController.class
-com/springmvc/model/Exercise.class
-com/springmvc/model/Activity.class
-com/springmvc/model/Goal.class
-com/springmvc/service/ExerciseService.class
-com/springmvc/controller/MinutesController.class
-com/springmvc/service/ExerciseServiceImpl.class

@@ -8,12 +8,12 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springmvc</groupId>
+	<groupId>com.springmvc4</groupId>
 	<artifactId>EventTracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>EventTracker</name>
-	<description>Spring MVC web application</description>
+	<description>Spring MVC 4 web application</description>
 
 	<properties>
 		<java.version>1.8</java.version>

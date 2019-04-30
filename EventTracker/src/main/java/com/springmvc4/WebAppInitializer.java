@@ -25,6 +25,7 @@ public class WebAppInitializer implements WebApplicationInitializer {
 	private AnnotationConfigWebApplicationContext getContext() {
 		AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
 		context.setConfigLocation("com.springmvc4.WebConfig");
+		context.register(com.springmvc4.WebConfig.class);
 		
 		return context;
 	}
